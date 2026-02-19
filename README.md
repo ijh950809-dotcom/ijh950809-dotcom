@@ -25,6 +25,13 @@
 ***
 ---
 
+
+-------------6. 이미지 -------------
+![대체텍스트](이미지 경로나 주소)
+![동계올림픽 로고](https://mml.pstatic.net/www/mobile/edit/20260219_1095/upload_1771450612769HZ3pV.png)
+
+
+
 <!--
 **ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
