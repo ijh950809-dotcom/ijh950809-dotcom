@@ -19,9 +19,11 @@
   3. javascript
  
 --------------4. 하이퍼링크(Link)---------------------
-[파스쿠찌](http://jh950809-dotcom.github.com/passcu
-](https://ijh950809-dotcom.github.io/passcu/)
+[파스쿠찌](https://ijh950809-dotcom.github.io/passcu/)
 
+----------5. 구분선(hr)-------------
+***
+---
 
 <!--
 **ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
