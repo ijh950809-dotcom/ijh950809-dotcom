@@ -1,9 +1,15 @@
+-----------1. 제목--------------
 # 제목1
 
 ## 제목2
 
 ### 제목3
 #### 제목4
+-----------2. 글자 관련----------------
+**굵게**
+*기울게*
+***굵게 기울게***
+~~취소선~~
 
 <!--
 **ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
