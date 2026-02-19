@@ -42,6 +42,10 @@
   내용이 보이는 곳
 </details>
 
+----------------9. 뱃지아이콘--------------
+
+
+
 <!--
 **ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
