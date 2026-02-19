@@ -10,7 +10,13 @@
 *기울게*
 ***굵게 기울게***
 ~~취소선~~
+-----------2. 목록 관련----------------
+- 사과
+- 바나나
 
+  1. html
+  2. css
+  3. javascript
 <!--
 **ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
