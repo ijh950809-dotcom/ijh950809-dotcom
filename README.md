@@ -45,9 +45,10 @@
 ----------------9. 뱃지아이콘--------------
 https://shields.io/
 
-<img alt="Static Badge" src="https://img.shields.io/badge/css">
+<img src="https://img.shields.io/badge/html5-blue?logo=html5">
 
-<img src="https://img.shields.io/badge/html5-html5-blue?logo=html5">
+-------------10. 이모지 아이콘(단축키: 윈도우로고키 + ;)--------------
+😊
 
 
 <!--
