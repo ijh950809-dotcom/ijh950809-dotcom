@@ -47,7 +47,7 @@ https://shields.io/
 
 <img alt="Static Badge" src="https://img.shields.io/badge/css">
 
-<img src="https://img.shields.io/badge/html5-repo-blue?logo=html5">
+<img src="https://img.shields.io/badge/html5-html5-blue?logo=html5">
 
 
 <!--
