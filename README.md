@@ -10,13 +10,19 @@
 *기울게*
 ***굵게 기울게***
 ~~취소선~~
------------2. 목록 관련----------------
+-----------3. 목록 관련(순서 없는 목록, 순서 있는 목록)----------------
 - 사과
 - 바나나
 
   1. html
   2. css
   3. javascript
+ 
+--------------4. 하이퍼링크(Link)---------------------
+[파스쿠찌](http://jh950809-dotcom.github.com/passcu
+](https://ijh950809-dotcom.github.io/passcu/)
+
+
 <!--
 **ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
