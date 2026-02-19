@@ -35,6 +35,13 @@
 - [ ] css
 - [ ] javascript
 
+
+--------------8. 접기/펼치기---------------
+<details>
+  <summary>자세히보기</summary>
+  내용이 보이는 곳
+</details>
+
 <!--
 **ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
