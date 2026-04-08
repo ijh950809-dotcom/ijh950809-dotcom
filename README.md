@@ -1,29 +1,29 @@
------------1. 제목--------------
-# 제목1
 
-## 제목2
+# Im Ji Hee frontend portfolio
 
-### 제목3
-#### 제목4
------------2. 글자 관련----------------
-**굵게**
-*기울게*
-***굵게 기울게***
-~~취소선~~
------------3. 목록 관련(순서 없는 목록, 순서 있는 목록)----------------
-- 사과
-- 바나나
+**안녕하세요 프론트엔드 개발자를 준비하는 임지희입니다. 
+저의 깃허브에 방문해 주셔서 감사합니다.**
 
-  1. html
-  2. css
-  3. javascript
- 
---------------4. 하이퍼링크(Link)---------------------
-[파스쿠찌](https://ijh950809-dotcom.github.io/passcu/)
+###포트폴리오 프로젝트 바로가기
+[eatmate](web-jh-eatmate-mleqh0x837c33d90.sel3.cloudtype.app/)
+[crocs](https://jh0000.dothome.co.kr/crocs/index.php)
+[LG생활건강](https://ijh950809-dotcom.github.io/p1_lg/)
 
-----------5. 구분선(hr)-------------
-***
----
+
+<!--
+**ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 
 -------------6. 이미지 -------------
@@ -51,17 +51,4 @@ https://shields.io/
 😊
 
 
-<!--
-**ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
