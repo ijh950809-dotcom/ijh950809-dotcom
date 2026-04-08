@@ -7,6 +7,9 @@
 **방문해 주셔서 감사합니다.**
 
 
+[포트폴리오 바로가기](https://ijh950809-dotcom.github.io/2026-portfolio_frontend/)
+
+
 
 <!--
 **ijh950809-dotcom/ijh950809-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
