@@ -1,14 +1,18 @@
 
 # Im Ji Hee frontend portfolio
 
-**안녕하세요 프론트엔드 개발자를 준비하는 임지희입니다. 
-방문해 주셔서 감사합니다.**
+**안녕하세요 프론트엔드 개발자를 준비하는 임지희입니다.**
+**방문해 주셔서 감사합니다.**
 
 포트폴리오 프로젝트 바로가기
+
+
 [eatmate](web-jh-eatmate-mleqh0x837c33d90.sel3.cloudtype.app/)
-***
+
+
 [crocs](https://jh0000.dothome.co.kr/crocs/index.php)
-***
+
+
 [LG생활건강](https://ijh950809-dotcom.github.io/p1_lg/)
 
 
